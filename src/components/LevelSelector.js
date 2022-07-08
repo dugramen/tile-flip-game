@@ -8,7 +8,7 @@ export default function LevelSelector(props) {
     return (<div className="level-selector">
         <div className="title level-selector--title" onClick={() => setVisible(oldVisible => !oldVisible)}>
             <h2>Level Selector</h2>
-            <div className={visible? "arrow-up": "arrow-down"}>
+            <div className={"arrow " + (visible? "arrow-up": "arrow-down")}>
                 <i className="fi fi-rr-angle-small-down"></i>
             </div>
         </div>
