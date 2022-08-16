@@ -1,5 +1,7 @@
 # Simple Tile Flipping Game
 
+Playable at https://dugramen.github.io/tile-flip-game/
+
 ## How to play:
 - Make all tiles are Orange to win
 - Click a tile to flip that tile and all surrounding tiles
