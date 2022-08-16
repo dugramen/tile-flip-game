@@ -5,6 +5,15 @@
   --orange-gradient: linear-gradient(rgb(252, 205, 118), rgb(223, 182, 106));
 }
 
+/* @media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+  }
+  * {
+    color: white;
+  }
+} */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -169,7 +178,7 @@ input:hover {
 }
 
 .fold {
-  transition: .5s ease-out;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) .5s;
   overflow: hidden;
 }
 .fold.visible {

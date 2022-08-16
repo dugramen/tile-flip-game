@@ -30,7 +30,7 @@ export default function LevelSelector(props) {
                     onChange={props.handleChange}
                 />
             </div>
-            <h3>Tries</h3>
+            <h3>Clicks</h3>
             <input
                 name="tries"
                 type="number"
