@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tile-flip-game/static/css/main.66a2da92.css",
+    "main.js": "/tile-flip-game/static/js/main.38530ecd.js",
+    "static/js/787.81f69695.chunk.js": "/tile-flip-game/static/js/787.81f69695.chunk.js",
+    "index.html": "/tile-flip-game/index.html",
+    "main.66a2da92.css.map": "/tile-flip-game/static/css/main.66a2da92.css.map",
+    "main.38530ecd.js.map": "/tile-flip-game/static/js/main.38530ecd.js.map",
+    "787.81f69695.chunk.js.map": "/tile-flip-game/static/js/787.81f69695.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a2da92.css",
+    "static/js/main.38530ecd.js"
+  ]
+}
